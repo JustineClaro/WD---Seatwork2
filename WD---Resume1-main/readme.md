@@ -60,10 +60,9 @@
 Description of the project in details.
 
 Guiding Question:
-- What is the project
-- Whats the purpose
-- What are key components
-- What technology used and how it is used
+- Website Resume
+- Using HTML and CSS
+
 
 ### Key Components
 <!-- TODO: List of Key Components -->
@@ -115,4 +114,5 @@ WD-ProjectName
 | Instagram | Copy if Instagram logo | https://boxicons.com/?query= |
 | Tiktok | Copy if Tiktok logo | https://boxicons.com/?query= |
 | Facebook | Copy if Facebook logo | https://boxicons.com/?query= |
-| Facebook | Copy if Facebook logo | https://boxicons.com/?query= |
+| Design | Reference design | (https://www.youtube.com/watch?v=H0qxLgms-9M&t=5186s) |
+| Design | Design and Layout |[ https://boxicons.com/?query=](https://www.youtube.com/watch?v=Dtb3DdSvYRY) |
