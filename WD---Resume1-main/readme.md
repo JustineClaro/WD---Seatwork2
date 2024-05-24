@@ -20,7 +20,7 @@
 
 <!-- TODO: Change the zyx-0314 into your github username  -->
 <!-- TODO: Change the WD-Template-Project into the same name of your folder -->
-![](https://visit-counter.vercel.app/counter.png?page=WD---Seatwork2/edit/main/WD---Resume1-main/readme.md
+![](https://visit-counter.vercel.app/counter.png?page=JustineClaro/WD---Seatwork2/edit/main/WD---Resume1-main
 
 ---
 
